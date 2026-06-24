@@ -1,0 +1,6 @@
+{
+  "name": "AL BAIK Srinagar",
+  "description": "Premium Fast Casual Dining Admin & Customer App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
