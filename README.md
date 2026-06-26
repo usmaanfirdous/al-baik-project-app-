@@ -1,1 +1,2 @@
-this is the al baik app that i created as a prototype 
+THIS IS THE AL-BAIK(RESTRAUNT) PROTOTYPE APP HAVING A WIDE VARIETY OF FEATURES :
+
