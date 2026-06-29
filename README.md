@@ -1,6 +1,6 @@
 # 🍗 Al Baik Restaurant Management & Ordering App
 
-A modern restaurant ordering and management application inspired by Al Baik, built using Stitch and Google AI Studio. This project is designed to streamline restaurant operations by combining customer ordering, waiter assistance, and powerful administrative tools into a single platform.
+A modern restaurant ordering and management application inspired by Al Baik, built using Stitch and kotlin. This project is designed to streamline restaurant operations by combining customer ordering, waiter assistance, and powerful administrative tools into a single platform.
 
 ## 🚀 Features
 
@@ -45,7 +45,6 @@ The administrator portal is the core of the application and includes:
 ## 🛠️ Technologies Used
 
 - Stitch
-- Google AI Studio
 - GitHub
 - kotlin 
 
